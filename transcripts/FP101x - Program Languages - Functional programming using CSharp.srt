@@ -4,35 +4,43 @@
 
 2
 00:00:03,389 --> 00:00:07,649
+这里是函数式程序设计课程 FP101x
 Welcome everybody to another jam
 session
 
 3
 00:00:07,649 --> 00:00:11,600
+欢迎来到另一节扩展课程
 in the FP101x functional programming course.
 
 4
 00:00:11,690 --> 00:00:14,769
+在这一小段中
 In this snippet
 
 5
 00:00:14,769 --> 00:00:18,560
+我将要展示，在主课中
 I'm going to show how the ideas
 
 6
 00:00:18,560 --> 00:00:22,300
+我们使用 Haskell 学习到的想法
 that we learnt in the main course
 
 7
 00:00:22,300 --> 00:00:25,500
+如何被应用于
 with Haskell, can be applied
 
 8
 00:00:25,500 --> 00:00:29,400
+.NET 之中 为了在 .NET 中编程
 in .NET. In order to program .Net
 
 9
 00:00:29,400 --> 00:00:32,900
+我将使用 Xamarin Studio
 I'll be using Xamarin Studio.
 
 10

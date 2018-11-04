@@ -6,6 +6,9 @@ As the course progresses we will put up more material here.
 
 We encourage contributions from the community (e.g. translations, fixes, etc.).
 
+This repository's transcribes are translated to Chinese.
+
+中文字幕，视频资源见 https://www.bilibili.com/video/av35149413
 
 Lectures
 --------
