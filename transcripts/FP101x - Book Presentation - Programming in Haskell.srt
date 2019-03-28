@@ -1,82 +1,62 @@
 1
 00:00:00,539 --> 00:00:04,730
-本慕课的内容基于这本很棒的书
 The content of this MOOC is based on the
 fantastic book
 
 2
-00:00:04,730 --> 00:00:11,870
-{\an8}注：目前最新版本是第二版
-
-2
 00:00:04,730 --> 00:00:08,710
-Gramham Hutton 写的 Programming in Haskell
 by Graham Hutton: Programming in Haskell.
 
 
 3
 00:00:08,710 --> 00:00:11,870
-我十分推荐
 I strongly recommend that,
 
 4
 00:00:11,870 --> 00:00:15,259
-当你听课时
-as you follow the lectures, you
+as you follow the lectures,
+you
 
 5
 00:00:15,259 --> 00:00:19,630
-阅读书中的对应章节以获取更多的背景知识
 read the chapters in the book for extra
 background information
 
 6
 00:00:19,630 --> 00:00:24,439
-和更深的理解 剑桥大学出版社很友善
 and deeper knowledge. Cambridge
 University Press has been so kind
 
 7
-00:00:19,630 --> 00:00:40,450
-{\an8}注：该优惠码已停用，请移步 edX 查看最新优惠码
-
-8
 00:00:24,439 --> 00:00:28,220
-提供 25% 的折扣
 to offer you a 25% discount on
 the book,
 
-9
+8
 00:00:28,220 --> 00:00:32,040
-购买纸质版或电子版
 both on the printed version and on the
 electronic version.
 
-10
+9
 00:00:32,040 --> 00:00:36,559
-当然你不需要手动输入这个 URL
 Of course, you don't have to type
 in this URL here;
 
-11
+10
 00:00:36,559 --> 00:00:40,450
-课程网站（edX）上可以找到
 the URL will be available on the
 course website,
 
-12
+11
 00:00:40,450 --> 00:00:44,809
-请考虑购买这本书
 Please consider to get the book
 because I think it will
 
-13
+12
 00:00:44,809 --> 00:00:48,219
-因为我认为它可以大大提升这门慕课的体验
 very much enhance the learning
 experience of this MOOC.
 
-14
+13
 00:00:48,219 --> 00:00:51,350
-玩得开心， hacking 愉快！
 Have a lot of fun and happy hacking!

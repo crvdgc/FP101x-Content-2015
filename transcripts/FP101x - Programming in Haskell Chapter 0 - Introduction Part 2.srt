@@ -875,4 +875,3 @@ with the exercises on the website
 195
 00:12:27,630 --> 00:12:30,480
 and see you next week for lecture 2.
-
